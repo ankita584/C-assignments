@@ -8,3 +8,4 @@ new update
 new local update
 
 new local update 2
+new remote update
